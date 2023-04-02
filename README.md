@@ -9,6 +9,10 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 </div>
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeWooKim-SCH&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=TaeWooKim-SCH&show_icons=true">
+</div>
 
 <!--
 **TaeWooKim-SCH/TaeWooKim-SCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
