@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=TaeWoo GitHub!&fontSize=90"/>
 ### Hi 👋
-<img src="https://img.shields.io/badge/HTML-#E34F26?style=flat&logo=로고이름&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=로고이름&logoColor=white"/>
 - 🔭 I’m currently working on React
 
 <!--
