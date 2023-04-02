@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=로고이름&logoColor=white"/>
 </div>
 
-- 🔭 I’m currently working on React
 
 <!--
 **TaeWooKim-SCH/TaeWooKim-SCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
