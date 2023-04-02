@@ -1,6 +1,8 @@
-<header align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=TaeWoo&nbsp;GitHub!&fontSize=90"/>
+<header>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=800px&height=200&section=header&text=TaeWoo&nbsp;GitHub!&fontSize=90"/>
 </header>
+
+## Hello, I'm front-end deveploper!
 
 
 <div align="center">
