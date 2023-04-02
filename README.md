@@ -2,7 +2,7 @@
 
 
 <div>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=로고이름&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/>
 </div>
 
 
