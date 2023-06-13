@@ -47,8 +47,8 @@ My major is data analysis. However, I found coding fun while analyzing data. So 
 
 <div>
   <h2>✨GitHub Stats✨</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeWooKim-SCH&layout=compact&count_private=true"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=TaeWooKim-SCH&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeWooKim-SCH&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=TaeWooKim-SCH&show_icons=true&count_private=true">
 </div>
 
 <div>
