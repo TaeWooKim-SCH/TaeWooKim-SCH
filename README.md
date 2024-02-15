@@ -9,7 +9,6 @@
 - When a problem arises, I aim to analyze rather than just stick the code.
 - I prefer to communication with people I collaborate with.
 - I have an attitude to value other people's feedback
-
 <br/>
 
 <div>
