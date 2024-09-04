@@ -11,9 +11,8 @@
 - I have an attitude to value other people's feedback
 <br/>
 
-
 <div>
-  <h2>✨Front-End Stacks✨</h2>
+  <h2>✨Web Front-End Stacks✨</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
@@ -29,14 +28,32 @@
 <br/>
 
 <div>
+  <h2>✨Web Back-End Stacks✨</h2>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-2C2255?style=flat-square&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white" />
+</div>
+
+<br/>
+
+<div>
+  <h2>✨Game Develop Stacks✨</h2>
+  <img src="https://img.shields.io/badge/C Sharp-99CC00?style=flat-square&logo=sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white" />
+</div>
+
+<br/>
+
+<div>
   <h2>✨Data-Science Stacks✨</h2>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-2C2255?style=flat-square&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white" />
 </div>
 
 <br/>
