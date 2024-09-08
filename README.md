@@ -2,13 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=TaeWoo&nbsp;GitHub!&fontSize=90"/>
 </div>
 
-<h2>Hello, I'm front-end deveploper!</h2>
+<h2>👋Hello, I'm front-end deveploper!👋</h2>
 <!-- My major is data analysis. However, I found coding fun while analyzing data. So I started developing the web, the flower of development. It started with the most basic front-end development among web developments. After studying the front end, I will study the back-end. -->
 
 - I enjoy programming itself.
 - When a problem arises, I aim to analyze rather than just stick the code.
 - I prefer to communication with people I collaborate with.
 - I have an attitude to value other people's feedback
+
+<br/>
+
+<h2>✏️Now studying...✏️</h2>
+
+- Game Develop(C#, Unity)
+
 <br/>
 
 <div>
