@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" />
 </div>
 
