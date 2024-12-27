@@ -50,6 +50,7 @@
   <h2>✨Game Develop Stacks✨</h2>
   <img src="https://img.shields.io/badge/C Sharp-99CC00?style=flat-square&logo=sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white" />
 </div>
 
 <br/>
