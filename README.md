@@ -109,16 +109,46 @@
 
 
 <!--
-**TaeWooKim-SCH/TaeWooKim-SCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 커리어 연혁
 
-Here are some ideas to get you started:
+2025.07 **🏢 Atrocom / Software Engineer**<br>
+  │ • Unity 클라이언트 개발<br>
+  │ • .NET 서버 개발<br>
+  │<br>
+  
+2024.12 🎓 순천향대학교 / AI•빅데이터학과 3학년 수료<br>
+  │ • 알고리즘·ML/DL 전공<br>
+  │ • 알고리즘 동아리 부회장
+  
+2023.02 💻 Codestates Bootcamp / Front-End<br>
+  │ • Action 프로젝트<br>
+  │ • React.js 기반의 웹앱 개발<br>
+  │<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+
+## 🛠️ 기술 스택
+
+- **언어:** JavaScript, Python, C#
+- **프레임워크:** Spring Boot, React, Unity
+- **도구:** Docker, Kubernetes, Git, Jenkins
+
+---
+
+## 📂 주요 프로젝트
+
+1. **Project A** (2024.02)  
+   - 설명: 대용량 이미지 처리 플랫폼 개발  
+   - 주요 기술: Go, Kubernetes, gRPC
+
+2. **Project B** (2022.11)  
+   - 설명: 실시간 채팅 서비스 구현  
+   - 주요 기술: Socket.IO, Redis, AWS Lambda
+
+---
+
+## 📫 연락처
+
+- 이메일: bigdata1703@gmail.com  
+- 블로그: [your-blog-url](https://your-blog-url)  
+- LinkedIn: [your-linkedin](https://linkedin.com/in/your-id)
