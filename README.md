@@ -13,7 +13,7 @@
 - Vice President, Algorithm Club  
 <br>
 
-**2023.02**  
+**2023.08**  
 **💻 Codestates Bootcamp / Front-End**  
 - Team Lead, Final Capstone Project – Web App Development using React.js  
 <br>
