@@ -1,9 +1,101 @@
+## 🎯 Career
+
+**2025.07 – Present**  
+**🏢 Atrocom / CTO (Founding Engineer)**  
+- Unity client development  
+- .NET server development  
+- AWS infrastructure setup  
+<br>
+
+**2024.12**  
+**🎓 Soonchunhyang University / B.S. Program in AI & Big Data (3rd Year Completed)**  
+- Relevant Coursework: Algorithms, Machine Learning, Deep Learning, Natural Language Processing  
+- Vice President, Algorithm Club  
+<br>
+
+**2023.02**  
+**💻 Codestates Bootcamp / Front-End**  
+- Team Lead, Final Capstone Project – Web App Development using React.js  
+<br>
+
+## 🛠️ Tech Stack
+
+**Languages**  
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks / Libraries**  
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Tools / Platforms**  
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<br>
+
+<!--
+**Languages**  
+- C#  
+- Java  
+- JavaScript / TypeScript  
+- Python  
+- SQL (MySQL, PostgreSQL)
+<br>
+
+**Frameworks & Libraries**  
+- Unity  
+- .NET  
+- React.js / Next.js  
+- Express.js
+<br>
+
+**Tools & Platforms**  
+- Linux  
+- Git  
+- AWS (EC2, Route53, Load Balancer)  
+- Figma
+<br>
+!-->
+
+## 📂 Major Projects
+
+1. **Airnote** (2024.08)  
+   - A real estate community platform developed from scratch.
+   - Tech Stack: TypeScript, Next.js, PostgreSQL, AWS S3
+
+2. **Action** (2023.08)  
+   - A leisure activity reservation platform. - Responsible for implementing reservation and payment processing features.
+   - Tech Stack: TypeScript, React.js, Recoil, Tailwind, Java, Spring, Spring Boot, MySQL, Redis, AWS (EC2, S3), Toss Payments, Google API
+
+<br>
+
+## 📫 Contact
+
+- Email: zop123493@gmail.com
+- Blog: [https://2023-taewoo-blog.vercel.app](https://2023-taewoo-blog.vercel.app)
+- LinkedIn: [https://linkedin.com/in/engineer-taewoo-kim](https://linkedin.com/in/engineer-taewoo-kim)
+
+<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=TaeWoo&nbsp;GitHub!&fontSize=90"/>
 </div>
 
 <h3 align="center">👋Hello, I'm full stack deveploper!👋</h2>
-<!-- My major is data analysis. However, I found coding fun while analyzing data. So I started developing the web, the flower of development. It started with the most basic front-end development among web developments. After studying the front end, I will study the back-end. -->
+
 <div align="center">
   <ul>
     <p>I enjoy programming itself.</p>
@@ -106,49 +198,4 @@
   <a href = "https://tae-woo.notion.site/Front-End-cae878950d69425c97dfc6a80abbf5c5"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" /></a>
   <a href = "https://github.com/TaeWooKim-SCH"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>
 </div>
-
-
-<!--
-## 🎯 커리어 연혁
-
-2025.07 **🏢 Atrocom / Software Engineer**<br>
-  │ • Unity 클라이언트 개발<br>
-  │ • .NET 서버 개발<br>
-  │<br>
-  
-2024.12 🎓 순천향대학교 / AI•빅데이터학과 3학년 수료<br>
-  │ • 알고리즘·ML/DL 전공<br>
-  │ • 알고리즘 동아리 부회장
-  
-2023.02 💻 Codestates Bootcamp / Front-End<br>
-  │ • Action 프로젝트<br>
-  │ • React.js 기반의 웹앱 개발<br>
-  │<br>
-
-    
-
-## 🛠️ 기술 스택
-
-- **언어:** JavaScript, Python, C#
-- **프레임워크:** Spring Boot, React, Unity
-- **도구:** Docker, Kubernetes, Git, Jenkins
-
----
-
-## 📂 주요 프로젝트
-
-1. **Project A** (2024.02)  
-   - 설명: 대용량 이미지 처리 플랫폼 개발  
-   - 주요 기술: Go, Kubernetes, gRPC
-
-2. **Project B** (2022.11)  
-   - 설명: 실시간 채팅 서비스 구현  
-   - 주요 기술: Socket.IO, Redis, AWS Lambda
-
----
-
-## 📫 연락처
-
-- 이메일: bigdata1703@gmail.com  
-- 블로그: [your-blog-url](https://your-blog-url)  
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-id)
+--!>
