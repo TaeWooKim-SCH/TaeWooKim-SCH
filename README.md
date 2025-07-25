@@ -75,7 +75,7 @@
 
 1. **Airnote** (2024.08)  
    - A real estate community platform developed from scratch.
-   - Tech Stack: TypeScript, Next.js, PostgreSQL, AWS S3
+   - Tech Stack: TypeScript, Next.js, React Query, Zustand, PostgreSQL, AWS S3
 
 2. **Action** (2023.08)  
    - A leisure activity reservation platform. - Responsible for implementing reservation and payment processing features.
