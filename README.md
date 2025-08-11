@@ -73,11 +73,11 @@
 
 ## 🚀 Major Projects
 
-1. **Airnote** (2024.08)  
+1. **Airnote** (2024.04 - 2024.08)  
    - A real estate community platform developed from scratch.
    - Tech Stack: TypeScript, Next.js, React Query, Zustand, PostgreSQL, AWS S3
 
-2. **Action** (2023.08)  
+2. **Action** (2023.07 - 2023.08)  
    - A leisure activity reservation platform. - Responsible for implementing reservation and payment processing features.
    - Tech Stack: TypeScript, React.js, Recoil, Tailwind, Java, Spring, Spring Boot, MySQL, Redis, AWS (EC2, S3), Toss Payments, Google API
 
